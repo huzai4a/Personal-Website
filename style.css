@@ -1,0 +1,35 @@
+      body {margin:0;}
+
+      h2 {font-style:italic; margin: 0; padding: 5px; color: white;font-family:Verdana;}
+
+      p {font-weight:bold; font-family:Helvetica; margin:0; padding: 5px}
+
+      #title{background-color:#ccffff; font-family:Calibri; font-size:40px; text-align: center; color: white; font-style:italic; margin: 0;
+      border: 5px solid gainsboro; padding:25pc;}
+
+      #sentence {color: white;background-color:#66ccff; font-family:Verdana;}
+
+      #img {text-align:center; background-color:#3399ff;}
+
+      .navbar {
+  overflow: hidden;
+  background-color: #66ccff;
+}
+
+.navbar a {
+  float: left;
+  color: whitesmoke;
+  text-align: center;
+  padding: 5px 5px;
+  text-decoration: none;
+  font-family: Calibri;
+  font-size: 18px;
+  font-weight: bold;
+}
+.navbar a:hover {
+  background-color: lightgray;
+}
+.logo {
+width: 20px;
+height: 20px;
+}
